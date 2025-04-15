@@ -8,4 +8,4 @@ For security reasons we somethings don't share something...
 
 - [@Mrlion](https://github.com/L0stedMrlion) - Lead Developer, Founder
 - @petrpetr - Lead Project Manager
-- @Gariffi - Project Administration
+- [@Gariffi](https://github.com/Gariffi) - Project Administration
